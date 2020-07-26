@@ -4,13 +4,11 @@ The react-native-news-feed allows you to read articles by categories. Articles a
 
 ## Running this app
 
+Before running the app, add your API_KEY into 'src/config/index' and make sure you ran:
 
     npm install
-    add your API_KEY into 'src/config.index'
 
 ### Dependencies
-
-Both macOS and Xcode are required.
 
 - [redux](https://github.com/reduxjs/redux/) && [react-redux](https://github.com/reduxjs/react-redux/): Used for storing articles.
 - [AsyncStorage](https://reactnative.dev/docs/asyncstorage.html/): Used for saving previously read and favourited articles.
