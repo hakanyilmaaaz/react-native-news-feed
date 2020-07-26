@@ -4,7 +4,6 @@ The react-native-news-feed allows you to read articles by categories. Articles a
 
 ## Running this app
 
-Before running the app, make sure you ran:
 
     npm install
     add your API_KEY into 'src/config.index'
